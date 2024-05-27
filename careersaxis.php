@@ -2,7 +2,7 @@
 
 <div id="hero-banner">
     <div class="hero-overlay">
-        <h1 class="hero-text">CAREERS AT <span class="highlight-text">AXIS MY INDIA</span></h1>
+        <!-- <h1 class="hero-text">CAREERS AT <span class="highlight-text">AXIS MY INDIA</span></h1> -->
     </div>
 </div>
 
@@ -16,7 +16,7 @@
             <button><a href="https://axismyindia.zohorecruit.in/" style="color:white !important;">View Open Positions</a></button>
         </div>
         <div class="right-section">
-            <img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/05/careers.png" alt="I AM INDIA Movement">
+            <img src="https://shravani.haribhaumusicals.com/wp-content/uploads/2024/05/imgcareer.png" alt="I AM INDIA Movement">
         </div>
     </div>
 </div>
@@ -42,7 +42,9 @@
 <div >
   <div class="wrapper">
     <div class="main-container">
-        <h1 class="title">Employee Benefits Note</h1>
+        <h2 style="    font-weight: 600;
+    margin-bottom: 35px;
+    font-size: 35px;">Employee Benefits Note</h2>
         <div class="benefits-section">
             <div class="financial-benefits">
                 <h2>Financial Benefits :</h2>
