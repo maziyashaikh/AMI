@@ -100,6 +100,38 @@
  <div class="video-container" id="player"></div>
  </section>
  
+ <section class="tablesec" style="padding-bottom: 0px;">
+    <div class="container tablecon">
+        <div class="">
+    <table class="service-table" style="    border-radius: 0px;">
+        <tbody><tr style="background: #fff; font-size:15px">
+            <td style="font-weight:700;color:rgb(130,0,130);text-align:center;vertical-align: center; background: white;"><a style="color:purple;text-decoration:none;" href="trustindex/index.php"><b style="position:relative;">Election Forecasting & Political Research</b></a></td>
+            <td style="line-height:2; background: white;"><li>Exit Polls - Central & State</li><li>Impact Assessment Studies - Government & Political Parties</li></td>
+        </tr>
+        
+        <tr style="background-color:#fff;font-size:15px">
+            <td style="font-weight:700;color:rgb(130,0,130);text-align:center"><b style="position:relative;top:20px">Market Research Led Consulting</b></td>
+            <td style="line-height:2"><li>Market Potential, Total Addressable Market (TAM)</li>
+            <li> Need Gap Studies</li>
+<li>Brand Health, Customised Research</li></td>
+        </tr>
+        <tr style="background-color:#fff;font-size:15px">
+            <td style="font-weight:700;color:rgb(130,0,130);text-align:center; background: white;"><b style="position:relative;top:20px">Social Impact Consulting</b></td>
+            <td style="line-height:2; background: white;"><li>Identification of high impact CSR initiatives</li>
+            <li> Impact Assessment, Monitoring & Effectiveness measurement</li></td>
+        </tr>
+        <tr style="background-color:#fff;font-size:15px">
+            <td style="font-weight:700;color:rgb(130,0,130);text-align:center"><b style="position:relative;">'a' People Empowerment Platform</b></td>
+            <td style="line-height:2"><li>A phygital platform to empower citizens</li>
+           </td>
+        </tr>
+        </tbody>
+        </table>
+        </div>
+        </div>
+        </section>
+
+
  <section class="tablesec">
     <div class="container tablecon">
         <div class="tablebg">

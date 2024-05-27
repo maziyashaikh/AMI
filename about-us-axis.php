@@ -27,7 +27,7 @@
 <!-- About Us Section End -->
    
 <!-- HBS Section Start -->
-   <section class="res-curv-sec aboutsec" style="justify-content: center; padding-top: 30px; padding-bottom: 30px;">
+   <!-- <section class="res-curv-sec aboutsec" style="justify-content: center; padding-top: 30px; padding-bottom: 30px;">
     <h2>Power your brand with revolutionary media solutions</h2>
         <div class="features-section">
             
@@ -56,7 +56,7 @@
                 <h3>Assured Measurability</h3>
             </div>
         </div>
-   </section>
+   </section> -->
    <!-- HBS Section End -->
 
    <!-- Our Solution Section Start -->
@@ -101,7 +101,7 @@
 
 <div class="shell">
     <div class="container">
-        <h2>Our Leaders</h2>
+        <h2 style="color: #933993; font-weight: 600; font-size: 33px;">Our Leaders</h2>
         <div class="row lead" style="justify-content: center;">
             <div class="col-md-4">
                 <div class="rectangle-parent2 card1" onclick="openModal('modal1')">
